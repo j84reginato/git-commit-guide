@@ -1,9 +1,8 @@
 {
-  "name": "mm-cz-conventional-changelog-for-jira-smart-commits",
+  "name": "git-commit-guide",
   "version": "1.0.0",
   "description": "Commitizen adapter following the conventional-changelog format and also asking for JIRA issue with Smart Commits.",
   "main": "index.js",
-  "private": true,
   "license": "MIT",
   "engineStrict": true,
   "engines": {
